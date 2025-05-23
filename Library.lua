@@ -1,6 +1,3 @@
--- // Coded by _notportal
--- Example at bottom
---
 local Library = {};
 do
 	Library = {
